@@ -117,5 +117,9 @@ _A list of commonly used Git and Terminal commands_
 | `gitk` | Open GUI | Abre una interfaz grafica |
 | `git cherry.pick [id]` | Take commit from other branches | Trae un commit especifico desde otra rama |
 | `git grep -n [word]` | Search words in the proyect | Busca la palabra especificada en todo el proyecto |
+| `git rebase [rama]` | Reapply commits on top of another base tip | Reaplicar confirmaciones encima de otra punta base |
+| `git stash` |  Stash the changes in a dirty working directory away | Crea en un area los cambios antes de hacer commits |
+| `git stash list` | Stash the changes List | Mostrar los stash | 
+| `git stash pop` | Applid Stash the changes | Aplicar el stash guardado |
 
 
